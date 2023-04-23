@@ -6,7 +6,7 @@ Goncalomaria2001@gmail.com
 
 <br>
 
-![linkedin](https://www.linkedin.com/in/goncalo-mendes-maria/)
+[linkedin](https://www.linkedin.com/in/goncalo-mendes-maria/)
 
  ![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Metrics&fontSize=20&fontColor=3a2961&animation=twinkling&fontAlign=50)
 
