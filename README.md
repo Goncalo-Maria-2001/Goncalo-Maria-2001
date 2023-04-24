@@ -15,10 +15,7 @@ Goncalomaria2001@gmail.com
  
 
  ![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=skills%20and%20tools&fontSize=20&fontColor=3a2961&animation=twinkling&fontAlign=50)
-   
-   
-Spanish
-
+ 
 Mathematical Logic
 
 Mathematical Analysis
