@@ -12,8 +12,14 @@ Molecular Dynamics simulations using Martini 3 force fields.
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python3/python3-original.svg" />
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />  
+
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Social%20Media&fontSize=20&fontColor=71ade3&fontAlign=50)
