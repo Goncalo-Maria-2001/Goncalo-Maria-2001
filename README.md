@@ -10,7 +10,11 @@ Molecular Dynamics simulations using Martini 3 force fields.
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Tools%20Used%20Previously&fontSize=20&fontColor=71ade3&fontAlign=50)
 
+<p align="left">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python3/python3-original.svg" />
+          
+</p>
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Social%20Media&fontSize=20&fontColor=71ade3&fontAlign=50)
 
