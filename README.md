@@ -16,11 +16,27 @@ Molecular Dynamics simulations using Martini 3 force fields.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width=50 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=50 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width=50 />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width=50/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width=50/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width=50 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=50 />  
-
 </p>
+
+Other tools:
+- Gromacs
+- Marini
+- PyMol
+
+Python Libraries:
+- Regex
+- Requests
+- Curveball
+- os
+- pandas
+
+Bioinformatics Databases:
+- STRING
+- Uniprot
+- etc.
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Social%20Media&fontSize=20&fontColor=71ade3&fontAlign=50)
 
