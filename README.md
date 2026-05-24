@@ -4,11 +4,11 @@
 
 I am a motivated Mathematics major with a biology minor from the University of Lisbon’s Faculty of Sciences with a great interest in bioinformatics. Currently interning at Instituto de Tecnologia Química e Biológica António Xavier (ITQB NOVA).
   
-![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Currently%20Work&20On&fontSize=20&fontColor=71ade3&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Current%20Work&20On&fontSize=20&fontColor=71ade3&fontAlign=50)
 
 Molecular Dynamics simulations using Martini 3 force fields.
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Previous&20Tools&fontSize=20&fontColor=71ade3&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Tools%20Used%20Previously&fontSize=20&fontColor=71ade3&fontAlign=50)
 
 
 
