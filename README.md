@@ -8,6 +8,11 @@ I am a motivated Mathematics major with a biology minor from the University of L
 
 Molecular Dynamics simulations using Martini 3 force fields.
 
+![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Previous%20Projects&20On&fontSize=20&fontColor=71ade3&fontAlign=50)
+
+- Automated computation of growth curve plot and parameters from tecan plate agitator data
+- Automated functional enrichment per subcelular compartment and strain via STRING
+
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Tools%20Used%20Previously&fontSize=20&fontColor=71ade3&fontAlign=50)
 
 <p align="left">
