@@ -6,7 +6,7 @@ I am an aspiring Bioinformatics Master currently seeking out an education in the
   
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Current%20Work&20On&fontSize=20&fontColor=71ade3&fontAlign=50)
 
-Molecular Dynamics simulations using Martini 3 force fields.
+- Molecular Dynamics simulations using Martini 3 force fields.
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Previous%20Projects&20On&fontSize=20&fontColor=71ade3&fontAlign=50)
 
